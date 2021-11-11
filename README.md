@@ -1,11 +1,11 @@
 ### Oi, bem vindx! 🙃
 
-Me chamo Feliphe Paz, atualmente sou Dev Front-end Junior na Formulaviral, uma agência de publicidade localizada em São Paulo. Nela eu desenvolvo projetos para atender as mais diversas necessidades dos clientes, que vão desde sites institucionais até sistemas mais elaborados.
+Me chamo **Feliphe Paz**, atualmente sou Dev Front-end Junior na Formulaviral, uma agência de publicidade localizada em São Paulo. Nela eu desenvolvo projetos para atender as mais diversas necessidades dos clientes, que vão desde sites institucionais até sistemas mais elaborados.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
-* [humanaContabilidade](https://github.com/feliphepaz/humanaContabilidade)
-* [sorteador](https://github.com/feliphepaz/sorteador)
-* [universoAcademy](https://github.com/feliphepaz/universoAcademy)
+* [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )
+* [sorteador](https://github.com/feliphepaz/sorteador) ( *VanillaJS, GraphQL* )
+* [humanaContabilidade](https://github.com/feliphepaz/humanaContabilidade) ( *React* )
 
 #
 

@@ -1,16 +1,14 @@
-### Hi there 👋
+### Oi, bem vindx! 🙃
 
-<!--
-**feliphepaz/feliphepaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Feliphe Paz, atualmente sou Dev Front-end Junior na Formulaviral, uma agência de publicidade localizada em São Paulo. Nela, eu desenvolvo projetos para atender as mais diversas necessidades dos clientes, que vão desde sites institucionais até sistemas mais elaborados.
 
-Here are some ideas to get you started:
+#### Repositórios que mais merecem 1 minutinho da sua atenção 
+* [humanaContabilidade](https://github.com/feliphepaz/humanaContabilidade)
+* [sorteador](https://github.com/feliphepaz/sorteador)
+* [universoAcademy](https://github.com/feliphepaz/universoAcademy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliphepaz&theme=radical&layout=compact)](https://github.com/feliphepaz)
+
+

@@ -9,7 +9,6 @@ Me chamo **Feliphe Paz**, atualmente sou Dev Front-end Junior na Formulaviral, u
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliphepaz&theme=radical&layout=compact)](https://github.com/feliphepaz)
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

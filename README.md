@@ -4,8 +4,8 @@ Me chamo **Feliphe Paz**, atualmente sou Dev Front-end Junior na Formulaviral, u
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
 * [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )
-* [sorteador](https://github.com/feliphepaz/sorteador) ( *VanillaJS, GraphQL* )
-* [humanaContabilidade](https://github.com/feliphepaz/humanaContabilidade) ( *React* )
+* [sorteador](https://github.com/feliphepaz/sorteador) ( *VanillaJS, Facebook Graph API* )
+* [barcelona](https://github.com/feliphepaz/barcelona) ( *PHP, WordPress, VanillaJS* )
 
 #
 

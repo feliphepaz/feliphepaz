@@ -1,6 +1,6 @@
 ### Oi, bem vindx! 🙃
 
-Me chamo **Feliphe Paz**, atualmente sou Dev Front-end Junior na Formulaviral, uma agência de publicidade localizada em São Paulo. Nela eu desenvolvo projetos para atender as mais diversas necessidades dos clientes, que vão desde sites institucionais até sistemas mais elaborados.
+Me chamo **Feliphe Paz**, atualmente sou Dev Front-end na Turn2C, uma fintech de consórcios que utiliza machine learning para encontrar a melhor cota para os seus clientes. Nela eu faço parte da equipe de TI que trabalha na criação de sistemas e melhorias para a plataforma, consumindo APIs e desenvolvendo funcionalidades em React.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
 * [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )

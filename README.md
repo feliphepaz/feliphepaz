@@ -1,6 +1,6 @@
 ### Oi! 🙃
 
-Me chamo **Feliphe Paz** e atualmente sou **engenheiro de software na RD Station**, a plataforma de marketing e vendas líder da América Latina. Nela eu faço parte da equipe de lançamentos, desenvolvendo funcionalidades e projetos internos com TypeScript, Next.js, Styled Components, entre outras tecnologias.
+Me chamo **Feliphe Paz** e atualmente sou **desenvolvedor front-end na RD Station**, a plataforma de marketing e vendas líder da América Latina. Nela eu faço parte da equipe de lançamentos, desenvolvendo funcionalidades e projetos internos com TypeScript, Next.js, Styled Components, entre outras tecnologias.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
 * [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )

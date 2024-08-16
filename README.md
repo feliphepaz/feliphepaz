@@ -9,7 +9,7 @@ Me chamo **Feliphe Paz** e atualmente sou **desenvolvedor front-end na RD Statio
 
 #
 
-[![Top Langs](github-readme-stats-roan-eight-42.vercel.app/api/top-langs/?username=fehpazzz&theme=radical&layout=compact)](https://github.com/fehpazzz)
+[![Top Langs](https://github-readme-stats-roan-eight-42.vercel.app/api/top-langs/?username=fehpazzz&theme=radical&layout=compact)](https://github.com/fehpazzz)
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

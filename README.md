@@ -3,13 +3,13 @@
 Me chamo **Feliphe Paz** e atualmente sou **desenvolvedor front-end na RD Station**, a plataforma de marketing e vendas líder da América Latina. Nela eu faço parte da equipe de lançamentos, desenvolvendo funcionalidades e projetos internos com TypeScript, Next.js, Styled Components, entre outras tecnologias.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
-* [universoAcademy](https://github.com/fehpazzz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )
-* [sorteador](https://github.com/fehpazzz/sorteador) ( *VanillaJS, Facebook Graph API* )
-* [barcelona](https://github.com/fehpazzz/barcelona) ( *PHP, WordPress, VanillaJS* )
+* [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )
+* [sorteador](https://github.com/feliphepaz/sorteador) ( *VanillaJS, Facebook Graph API* )
+* [barcelona](https://github.com/feliphepaz/barcelona) ( *PHP, WordPress, VanillaJS* )
 
 #
 
-[![Top Langs](https://github-readme-stats-roan-eight-42.vercel.app/api/top-langs/?username=fehpazzz&theme=radical&layout=compact)](https://github.com/fehpazzz)
+[![Top Langs](https://github-readme-stats-roan-eight-42.vercel.app/api/top-langs/?username=feliphepaz&theme=radical&layout=compact)](https://github.com/feliphepaz)
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

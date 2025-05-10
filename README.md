@@ -1,6 +1,6 @@
 ### Oi! 🙃
 
-Me chamo **Feliphe Paz** e atualmente sou **desenvolvedor front-end na enjoei** do qual faço parte da equipe de franquias, desenvolvendo um sistema para os franquiados de uma das maiores marcas de second hand do país, com TypeScript, Vue e Nuxt.js.
+Me chamo **Feliphe Paz** e sou **desenvolvedor front-end**.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
 * [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )

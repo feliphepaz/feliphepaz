@@ -1,6 +1,6 @@
 ### Oi! 🙃
 
-Me chamo **Feliphe Paz** e sou **desenvolvedor front-end**.
+Me chamo **Feliphe Paz** e sou **desenvolvedor full stack**.
 
 #### Repositórios que mais merecem 1 minutinho da sua atenção 📚
 * [universoAcademy](https://github.com/feliphepaz/universoAcademy) ( *React, WordPress REST API, JSON Web Token* )
